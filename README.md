@@ -1,6 +1,6 @@
 # Fundamentos de Desarrollo Web
 
-## Resumen del Curso
+## Resumen del curso
 
 Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del desarrollo web mediante la creación de una página web sencilla con HTML y CSS. 
 
@@ -115,7 +115,9 @@ Curso: 1ASI0730 Aplicaciones Web
 NRC: 8137  
 
 **Nombre del equipo**: TeamTrack  
+
 **Repositorio**: [webdev-course-teamtrack](https://github.com/TeamTrack-1asi0730-202620-8137/webdev-course-teamtrack)  
+
 **Líder del equipo**: Orosco Ttamiña, Juan Carlos
 
 **Integrantes del equipo**:
