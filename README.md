@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
 - **Descripción**: Muestra cómo agregar encabezados, párrafos, listas, imágenes y enlaces.
-- **Enlace**: [Ver la lección](https://youtu.be/)
+- **Enlace**: [Ver la lección](https://youtu.be/JKnaQZ1fx0w)
 - **Consejos clave**: Las etiquetas HTML permiten organizar el contenido y agregar elementos interactivos básicos.
 - **Práctica**: [Practicar elementos HTML](https://codepen.io/dakuma-ai/pen/vEggwOJ)
 
