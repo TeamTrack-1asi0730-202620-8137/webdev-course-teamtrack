@@ -20,16 +20,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Presenta qué es un sitio web y explica la diferencia entre contenido, estructura y estilo.
-- **Enlace**: [Ver la lección](https://youtu.be/1luV3o7H8og)
+- **Enlace**: [Ver la lección](https://youtu.be/)
 - **Consejos clave**: Un sitio web combina contenido, estructura HTML y estilos CSS.
 - **Empieza a practicar**: [Abrir práctica en CodePen](https://codepen.io/pen/)
 
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Explica la estructura básica de una página HTML y el uso de etiquetas principales.
-- **Enlace**: [Ver la lección](https://youtu.be/chLGs0sE3r8)
+- **Enlace**: [Ver la lección](https://youtu.be/)
 - **Consejos clave**: Una página HTML se organiza con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
-- **Práctica**: [Crear primera página HTML](https://codepen.io/sephi-dev05/pen/ZYWQVQm)
+- **Práctica**: [Crear primera página HTML](https://codepen.io/)
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
@@ -43,7 +43,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 - **Descripción**: Introduce el uso de CSS para cambiar colores, fuentes, bordes y espaciados.
 - **Enlace**: [Ver la lección](https://youtu.be/)
 - **Consejos clave**: CSS permite modificar la apariencia visual de una página web.
-- **Práctica**: [Aplicar estilos con CSS](https://codepen.io/pen/)
+- **Práctica**: [Aplicar estilos con CSS](https://codepen.io/juancarlosorosco59/pen/jEBdLXV)
 
 ### Lección 5: Creación de una página web personal (6 minutos)
 
