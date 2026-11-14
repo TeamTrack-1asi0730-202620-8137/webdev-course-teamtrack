@@ -55,9 +55,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 6: Recomendaciones y errores comunes (8 minutos)
 
 - **Descripción**: Revisa errores frecuentes al iniciar en HTML y CSS, además de recomendaciones para seguir practicando.
-- **Enlace**: [Ver la lección]([https://www.youtube.com/](https://youtu.be/AbwH19cCwB8))
+- **Enlace**: [Ver la lección](https://youtu.be/AbwH19cCwB8)
 - **Consejos clave**: Revisar etiquetas cerradas, nombres de archivos, enlaces de imágenes y propiedades CSS.
-- **Actividad final**: [Revisar y mejorar tu página]([https://codepen.io/pen/](https://codepen.io/editor/veniku08/pen/01a1d71a-6456-7ab0-bbc6-ef7c9dbcf26a))
+- **Actividad final**: [Revisar y mejorar tu página](https://codepen.io/editor/veniku08/pen/01a1d71a-6456-7ab0-bbc6-ef7c9dbcf26a)
 
 ---
 
@@ -75,7 +75,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
     | 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
     | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
     | 5 | Crear una página de perfil personal | [Replit](https://replit.com/) |
-    | 6 | Corregir errores comunes y mejorar el proyecto | [CodePen](https://codepen.io/pen/) |
+    | 6 | Corregir errores comunes y recomendaciones | [CodePen](https://codepen.io/pen/) |
 
 
 ---
