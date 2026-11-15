@@ -41,7 +41,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 4: Introducción a CSS (12 minutos)
 
 - **Descripción**: Introduce el uso de CSS para cambiar colores, fuentes, bordes y espaciados.
-- **Enlace**: [Ver la lección](https://youtu.be/)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=def3pu4Rb8g)
 - **Consejos clave**: CSS permite modificar la apariencia visual de una página web.
 - **Práctica**: [Aplicar estilos con CSS](https://codepen.io/juancarlosorosco59/pen/jEBdLXV)
 
