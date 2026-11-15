@@ -48,9 +48,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 5: Creación de una página web personal (6 minutos)
 
 - **Descripción**: Integra HTML y CSS para construir una página de perfil personal con nombre, descripción, imagen, intereses y enlaces.
-- **Enlace**: [Ver la lección]([https://youtu.be/](https://youtu.be/wYIgwThY-j4))
+- **Enlace**: [Ver la lección](https://youtu.be/wYIgwThY-j4)
 - **Consejos clave**: El proyecto final combina estructura, contenido y estilo.
-- **Proyecto final**: [Crear página de perfil en CodePen]([https://codepen.io/pen/](https://codepen.io/editor/Fern9901/pen/01a1d6f4-d33a-76f6-b409-4c1261fa370a))
+- **Proyecto final**: [Crear página de perfil en CodePen](https://codepen.io/editor/Fern9901/pen/01a1d6f4-d33a-76f6-b409-4c1261fa370a)
 
 ### Lección 6: Recomendaciones y errores comunes (8 minutos)
 
@@ -74,7 +74,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
     | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/AlonsoVelizUpc/pen/azJxpab) |
     | 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
     | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
-    | 5 | Crear una página de perfil personal | [Replit](https://replit.com/) |
+    | 5 | Crear una página de perfil personal | [Replit](https://codepen.io/pen/) |
     | 6 | Corregir errores comunes y recomendaciones | [CodePen](https://codepen.io/pen/) |
 
 
