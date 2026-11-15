@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 
 - **Descripción**: Presenta qué es un sitio web y explica la diferencia entre contenido, estructura y estilo.
-- **Enlace**: [Ver la lección](https://youtu.be/fUolNXfmpTc)
+- **Enlace**: [Ver la lección](https://youtu.be/AkvbtUeitZE)
 - **Consejos clave**: Un sitio web combina contenido, estructura HTML y estilos CSS.
 - **Empieza a practicar**: [Abrir práctica en CodePen](https://codepen.io/AlonsoVelizUpc/pen/PwpgWjm)
 
