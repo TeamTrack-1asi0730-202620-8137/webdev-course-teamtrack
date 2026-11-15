@@ -29,7 +29,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 - **Descripción**: Explica la estructura básica de una página HTML y el uso de etiquetas principales.
 - **Enlace**: [Ver la lección](https://youtu.be/)
 - **Consejos clave**: Una página HTML se organiza con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
-- **Práctica**: [Crear primera página HTML](https://codepen.io/)
+- **Práctica**: [Crear primera página HTML](https://codepen.io/AlonsoVelizUpc/pen/azJxpab)
 
 ### Lección 3: Elementos HTML comunes (10 minutos)
 
@@ -71,7 +71,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
     | Lección | Actividad | Herramienta online |
     |---|---|---|
     | 1 | Reconocer las partes de un sitio web | [CodePen](https://codepen.io/pen/) |
-    | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/pen/) |
+    | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/AlonsoVelizUpc/pen/azJxpab) |
     | 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
     | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
     | 5 | Crear una página de perfil personal | [Replit](https://replit.com/) |
