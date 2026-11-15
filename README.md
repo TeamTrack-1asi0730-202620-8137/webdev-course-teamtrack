@@ -22,7 +22,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 - **Descripción**: Presenta qué es un sitio web y explica la diferencia entre contenido, estructura y estilo.
 - **Enlace**: [Ver la lección](https://youtu.be/fUolNXfmpTc)
 - **Consejos clave**: Un sitio web combina contenido, estructura HTML y estilos CSS.
-- **Empieza a practicar**: [Abrir práctica en CodePen](https://codepen.io/pen/)
+- **Empieza a practicar**: [Abrir práctica en CodePen](https://codepen.io/AlonsoVelizUpc/pen/PwpgWjm)
 
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 
     | Lección | Actividad | Herramienta online |
     |---|---|---|
-    | 1 | Reconocer las partes de un sitio web | [CodePen](https://codepen.io/pen/) |
+    | 1 | Reconocer las partes de un sitio web | [CodePen](https://codepen.io/AlonsoVelizUpc/pen/PwpgWjm) |
     | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/AlonsoVelizUpc/pen/azJxpab) |
     | 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
     | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
