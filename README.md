@@ -64,7 +64,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ## Recursos adicionales
 
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/TeamTrack-1asi0730-202620-8137/webdev-course-teamtrack)
-- **Carpeta de ejemplos completos**: [`/completed-examples`](./completed-examples)
+- **Carpeta de ejemplos completos**: [`/completed-examples`](https://github.com/TeamTrack-1asi0730-202620-8137/webdev-course-teamtrack/tree/main/completed-completed)
 - **Actividades prácticas**:
 
 
