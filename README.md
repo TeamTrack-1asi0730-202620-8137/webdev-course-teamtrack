@@ -74,7 +74,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
     | 2 | Crear la primera estructura HTML | [CodePen](https://codepen.io/AlonsoVelizUpc/pen/azJxpab) |
     | 3 | Agregar listas, imágenes y enlaces | [CodePen](https://codepen.io/pen/) |
     | 4 | Aplicar colores, fuentes y bordes | [CodePen](https://codepen.io/pen/) |
-    | 5 | Crear una página de perfil personal | [Replit](https://codepen.io/pen/) |
+    | 5 | Crear una página de perfil personal | [CodePen](https://codepen.io/pen/) |
     | 6 | Corregir errores comunes y recomendaciones | [CodePen](https://codepen.io/pen/) |
 
 
