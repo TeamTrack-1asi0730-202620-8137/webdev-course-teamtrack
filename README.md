@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos del
 ### Lección 2: Estructura básica de HTML (10 minutos)
 
 - **Descripción**: Explica la estructura básica de una página HTML y el uso de etiquetas principales.
-- **Enlace**: [Ver la lección](https://youtu.be/)
+- **Enlace**: [Ver la lección](https://youtu.be/WfrQu7jJZYE)
 - **Consejos clave**: Una página HTML se organiza con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
 - **Práctica**: [Crear primera página HTML](https://codepen.io/AlonsoVelizUpc/pen/azJxpab)
 
